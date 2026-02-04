@@ -1,6 +1,19 @@
 # 🎬 Magic MultiCam
 
-An open-source, AutoPod-inspired multi-camera editor for Adobe Premiere Pro. Automatically generate camera switches based on audio analysis.
+AutoPod-inspired multi-camera editor for Adobe Premiere Pro. Automatically generate camera switches based on audio analysis.
+
+---
+
+## ⚠️ PROPRIETARY SOFTWARE NOTICE
+
+**This is NOT open source software.**
+
+- **All Rights Reserved** - Copyright © 2024
+- Unauthorized copying, distribution, or use is **strictly prohibited**
+- See [COPYRIGHT.md](COPYRIGHT.md) and [LICENSE](LICENSE) for details
+- This repository is private and confidential
+
+---
 
 ## ✨ Features
 
@@ -247,7 +260,7 @@ config.activeSpeakerThreshold = -15;  // Higher threshold
 
 | Feature | AutoPod | Magic MultiCam |
 |---------|---------|----------------|
-| **Price** | $349/year | Free & Open Source |
+| **Price** | $349/year | Proprietary License |
 | **Processing** | In Premiere (slow) | External (fast) |
 | **Customization** | Limited UI options | Full code access |
 | **Audio Analysis** | Proprietary | RMS-based (transparent) |
@@ -366,9 +379,9 @@ Check your audio levels:
 
 7. **Fine-tune manually** (if needed)
 
-## 🤝 Contributing
+## 🛣️ Roadmap
 
-Contributions welcome! Areas for improvement:
+Future improvements planned:
 
 - [ ] Support for MP3/AAC input (via FFmpeg)
 - [ ] Interactive preset creation CLI
@@ -379,7 +392,10 @@ Contributions welcome! Areas for improvement:
 
 ## 📄 License
 
-MIT License - see [LICENSE](LICENSE)
+**PROPRIETARY SOFTWARE - All Rights Reserved**
+
+This software is proprietary and confidential. Unauthorized copying, distribution,
+modification, or use of this software is strictly prohibited. See [LICENSE](LICENSE) for details.
 
 ## 🙏 Credits
 
@@ -393,9 +409,8 @@ Built with:
 
 ## 📞 Support
 
-- GitHub Issues: Report bugs and request features
-- Discussions: Share your workflows and presets
+For support inquiries, please contact the software owner directly.
 
 ---
 
-**Made with ❤️ for the video editing community**
+**Copyright © 2024 - All Rights Reserved**

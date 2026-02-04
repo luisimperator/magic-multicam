@@ -1,6 +1,12 @@
 /**
  * Magic MultiCam - AutoPod Clone for Adobe Premiere Pro
  *
+ * PROPRIETARY SOFTWARE - All Rights Reserved
+ * Copyright (c) 2024
+ *
+ * Unauthorized copying, distribution, modification, or use of this
+ * software is strictly prohibited.
+ *
  * Main entry point for programmatic usage
  */
 

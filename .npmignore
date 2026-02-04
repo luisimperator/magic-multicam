@@ -1,0 +1,22 @@
+# PROPRIETARY SOFTWARE - DO NOT PUBLISH
+
+# Development files
+src/
+tsconfig.json
+examples/
+*.md
+!README.md
+
+# Git
+.git/
+.gitignore
+
+# Testing
+test/
+tests/
+*.test.ts
+*.spec.ts
+
+# Build artifacts that shouldn't be distributed
+.env
+.env.*

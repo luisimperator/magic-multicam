@@ -1,5 +1,15 @@
 #!/usr/bin/env node
 
+/**
+ * Magic MultiCam CLI
+ *
+ * PROPRIETARY SOFTWARE - All Rights Reserved
+ * Copyright (c) 2024
+ *
+ * Unauthorized copying, distribution, modification, or use of this
+ * software is strictly prohibited.
+ */
+
 import { Command } from 'commander';
 import chalk from 'chalk';
 import ora from 'ora';
